@@ -1,0 +1,24 @@
+name: Sync latest blog posts
+
+on:
+  schedule:
+    - cron: "30 * * * *"   # hourly
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest posts from the freundcloud.com RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.freundcloud.com/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "yyyy-mm-dd"
+          commit_message: "chore: refresh latest blog posts"

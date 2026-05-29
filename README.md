@@ -47,6 +47,17 @@ $ ls ~/projects --featured
 ---
 
 ```console
+$ tail -f ~/blog/latest
+```
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Auto-filled hourly from https://www.freundcloud.com/feed.xml -->
+- [Read the latest on freundcloud.com/blog →](https://www.freundcloud.com/blog/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+```console
 $ cat ~/.toolbox
 ```
 
@@ -76,6 +87,19 @@ $ cat ~/.toolbox
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olafkfreund&layout=compact&hide_border=true&bg_color=000000&title_color=00ff88&text_color=6fa86f&langs_count=8" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=olafkfreund&hide_border=true&background=000000&stroke=144a14&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=6fa86f&dates=3d6a3d&currStreakNum=d5ffd5&sideNums=d5ffd5" alt="Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- The snake eats my contribution graph — regenerated nightly by Actions. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olafkfreund/olafkfreund/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olafkfreund/olafkfreund/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/olafkfreund/olafkfreund/output/snake.svg" />
+</picture>
 
 </div>
 
