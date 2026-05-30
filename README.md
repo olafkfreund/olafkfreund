@@ -50,9 +50,8 @@ $ ls ~/projects --featured
 $ tail -f ~/blog/latest
 ```
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Auto-filled hourly from https://www.freundcloud.com/feed.xml -->
-- [Read the latest on freundcloud.com/blog →](https://www.freundcloud.com/blog/)
+<!-- BLOG-POST-LIST:START -->- [A Telegram bot for the media stack](https://www.freundcloud.com/blog/a-telegram-bot-for-the-media-stack/) <sub>2026-05-30</sub>
+- [Hello from a terminal-green corner of the internet](https://www.freundcloud.com/blog/hello/) <sub>2026-05-29</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ---
