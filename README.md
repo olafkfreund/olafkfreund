@@ -50,7 +50,9 @@ $ ls ~/projects --featured
 $ tail -f ~/blog/latest
 ```
 
-<!-- BLOG-POST-LIST:START -->- [Of Claude and chores](https://www.freundcloud.com/blog/of-claude-and-chores/) <sub>2026-05-30</sub>
+<!-- BLOG-POST-LIST:START -->- [Building SkillAi: CV keyword-match is a lie](https://www.freundcloud.com/blog/building-skillai/) <sub>2026-05-31</sub>
+- [Two weeks of SARC: wiring ServiceNow into three CI platforms](https://www.freundcloud.com/blog/two-weeks-of-sarc/) <sub>2026-05-30</sub>
+- [Of Claude and chores](https://www.freundcloud.com/blog/of-claude-and-chores/) <sub>2026-05-30</sub>
 - [A Telegram bot for the media stack](https://www.freundcloud.com/blog/a-telegram-bot-for-the-media-stack/) <sub>2026-05-30</sub>
 - [Hello from a terminal-green corner of the internet](https://www.freundcloud.com/blog/hello/) <sub>2026-05-29</sub>
 <!-- BLOG-POST-LIST:END -->
