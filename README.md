@@ -50,11 +50,11 @@ $ ls ~/projects --featured
 $ tail -f ~/blog/latest
 ```
 
-<!-- BLOG-POST-LIST:START -->- [One-button meetings: record, transcribe, summarize, done](https://www.freundcloud.com/blog/one-button-meetings/) <sub>2026-05-31</sub>
+<!-- BLOG-POST-LIST:START -->- [Backstage the NixOS way: a portal for 71 repos, declared](https://www.freundcloud.com/blog/backstage-the-nixos-way/) <sub>2026-06-05</sub>
+- [One-button meetings: record, transcribe, summarize, done](https://www.freundcloud.com/blog/one-button-meetings/) <sub>2026-05-31</sub>
 - [Voice into the prompt: Groq, ydotool, and seven PRs](https://www.freundcloud.com/blog/voice-into-the-prompt/) <sub>2026-05-31</sub>
 - [One model can’t do everything](https://www.freundcloud.com/blog/one-model-cant-do-everything/) <sub>2026-05-31</sub>
 - [Building SkillAi: CV keyword-match is a lie](https://www.freundcloud.com/blog/building-skillai/) <sub>2026-05-31</sub>
-- [Two weeks of SARC: wiring ServiceNow into three CI platforms](https://www.freundcloud.com/blog/two-weeks-of-sarc/) <sub>2026-05-30</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ---
