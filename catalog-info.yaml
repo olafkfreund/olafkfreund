@@ -7,6 +7,7 @@ metadata:
   name: olafkfreund
   description: "Profile README"
   annotations:
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: olafkfreund/olafkfreund
   tags: []
 spec:
