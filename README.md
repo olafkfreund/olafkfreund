@@ -50,11 +50,11 @@ $ ls ~/projects --featured
 $ tail -f ~/blog/latest
 ```
 
-<!-- BLOG-POST-LIST:START -->- [Cloudflare Tunnel, not Tailscale, behind Starlink CGNAT](https://www.freundcloud.com/blog/cloudflare-tunnel-not-tailscale-behind-starlink-cgnat/) <sub>2026-06-07</sub>
+<!-- BLOG-POST-LIST:START -->- [Introducing Muninn: A Retro-Premium GitHub Portal and Browser Agent Hub](https://www.freundcloud.com/blog/introducing-muninn-my-gruvbox-github-portal/) <sub>2026-06-10</sub>
+- [Making the CFactory cockpit live &lpar;and honest&rpar;](https://www.freundcloud.com/blog/making-the-cfactory-cockpit-live-and-honest/) <sub>2026-06-10</sub>
+- [Cloudflare Tunnel, not Tailscale, behind Starlink CGNAT](https://www.freundcloud.com/blog/cloudflare-tunnel-not-tailscale-behind-starlink-cgnat/) <sub>2026-06-07</sub>
 - [Backstage portal: how the freundcloud home lab now sees itself](https://www.freundcloud.com/2026/06/backstage-freundcloud-portal/) <sub>2026-06-05</sub>
 - [Backstage the NixOS way: a portal for 71 repos, declared](https://www.freundcloud.com/blog/backstage-the-nixos-way/) <sub>2026-06-05</sub>
-- [One-button meetings: record, transcribe, summarize, done](https://www.freundcloud.com/blog/one-button-meetings/) <sub>2026-05-31</sub>
-- [Voice into the prompt: Groq, ydotool, and seven PRs](https://www.freundcloud.com/blog/voice-into-the-prompt/) <sub>2026-05-31</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ---
