@@ -50,11 +50,11 @@ $ ls ~/projects --featured
 $ tail -f ~/blog/latest
 ```
 
-<!-- BLOG-POST-LIST:START -->- [Introducing Muninn: A Retro-Premium GitHub Portal and Browser Agent Hub](https://www.freundcloud.com/blog/introducing-muninn-my-gruvbox-github-portal/) <sub>2026-06-10</sub>
+<!-- BLOG-POST-LIST:START -->- [Letting VS Code into CFactory — the right way, not the easy way](https://www.freundcloud.com/blog/letting-vscode-into-cfactory-the-right-way/) <sub>2026-06-12</sub>
+- [Tidying Neovim for a Claude-and-Ollama stack](https://www.freundcloud.com/blog/tidying-neovim-for-a-claude-and-ollama-stack/) <sub>2026-06-12</sub>
+- [Cleaning out my zsh: bye oh-my-zsh, bye zplug](https://www.freundcloud.com/blog/cleaning-out-my-zsh-bye-oh-my-zsh-bye-zplug/) <sub>2026-06-12</sub>
+- [Introducing Muninn: A Retro-Premium GitHub Portal and Browser Agent Hub](https://www.freundcloud.com/blog/introducing-muninn-my-gruvbox-github-portal/) <sub>2026-06-10</sub>
 - [Making the CFactory cockpit live &lpar;and honest&rpar;](https://www.freundcloud.com/blog/making-the-cfactory-cockpit-live-and-honest/) <sub>2026-06-10</sub>
-- [Cloudflare Tunnel, not Tailscale, behind Starlink CGNAT](https://www.freundcloud.com/blog/cloudflare-tunnel-not-tailscale-behind-starlink-cgnat/) <sub>2026-06-07</sub>
-- [Backstage portal: how the freundcloud home lab now sees itself](https://www.freundcloud.com/2026/06/backstage-freundcloud-portal/) <sub>2026-06-05</sub>
-- [Backstage the NixOS way: a portal for 71 repos, declared](https://www.freundcloud.com/blog/backstage-the-nixos-way/) <sub>2026-06-05</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ---
