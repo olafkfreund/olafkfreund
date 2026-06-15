@@ -31,9 +31,6 @@ profile or in [my knowledge base](https://www.freundcloud.com/kb/).
 
 ---
 
-```console
-$ ls ~/projects --featured
-```
 
 | Project | What it is |
 | :------ | :--------- |
@@ -46,9 +43,6 @@ $ ls ~/projects --featured
 
 ---
 
-```console
-$ tail -f ~/blog/latest
-```
 
 <!-- BLOG-POST-LIST:START -->- [Leaving GNOME 50 for niri, Noctalia, and labwc](https://www.freundcloud.com/blog/leaving-gnome-50-for-niri-noctalia-and-labwc/) <sub>2026-06-14</sub>
 - [Letting VS Code into CFactory — the right way, not the easy way](https://www.freundcloud.com/blog/letting-vscode-into-cfactory-the-right-way/) <sub>2026-06-12</sub>
@@ -59,9 +53,6 @@ $ tail -f ~/blog/latest
 
 ---
 
-```console
-$ cat ~/.toolbox
-```
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
