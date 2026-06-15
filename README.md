@@ -13,10 +13,6 @@
 
 ---
 
-```console
-$ whoami
-```
-
 I'm a **DevOps and platform engineering leader**, thirty years in — currently moving a
 tier-1 US investment bank off Bitbucket + Bamboo onto **GitHub Enterprise + Actions**
 across six business units, and standing up a **Backstage** internal developer platform
