@@ -13,10 +13,7 @@
 
 ---
 
-I'm a **DevOps and platform engineering leader**, thirty years in — currently moving a
-tier-1 US investment bank off Bitbucket + Bamboo onto **GitHub Enterprise + Actions**
-across six business units, and standing up a **Backstage** internal developer platform
-for the UK's National Energy System Operator.
+I'm a **DevOps and platform engineering leader**, thirty years in.
 
 I like doing the whole arc: architect the platform, write the Terraform, present the SOW
 to the CTO, then ship the product. Most of what I learn ends up either in a tool on this
