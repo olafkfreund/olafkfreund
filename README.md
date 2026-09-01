@@ -37,11 +37,11 @@ profile or in [my knowledge base](https://www.freundcloud.com/kb/).
 ---
 
 
-<!-- BLOG-POST-LIST:START -->- [Factories, bridges, and a fleet that heals itself](https://www.freundcloud.com/blog/factories-bridges-and-self-healing/) <sub>2026-06-20</sub>
+<!-- BLOG-POST-LIST:START -->- [nixarchy: Omarchy on NixOS, and computing that’s fun again](https://www.freundcloud.com/blog/nixarchy-omarchy-on-nixos/) <sub>2026-09-01</sub>
+- [Factories, bridges, and a fleet that heals itself](https://www.freundcloud.com/blog/factories-bridges-and-self-healing/) <sub>2026-06-20</sub>
 - [Leaving GNOME 50 for niri, Noctalia, and labwc](https://www.freundcloud.com/blog/leaving-gnome-50-for-niri-noctalia-and-labwc/) <sub>2026-06-14</sub>
 - [Letting VS Code into CFactory — the right way, not the easy way](https://www.freundcloud.com/blog/letting-vscode-into-cfactory-the-right-way/) <sub>2026-06-12</sub>
 - [Tidying Neovim for a Claude-and-Ollama stack](https://www.freundcloud.com/blog/tidying-neovim-for-a-claude-and-ollama-stack/) <sub>2026-06-12</sub>
-- [Cleaning out my zsh: bye oh-my-zsh, bye zplug](https://www.freundcloud.com/blog/cleaning-out-my-zsh-bye-oh-my-zsh-bye-zplug/) <sub>2026-06-12</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ---
